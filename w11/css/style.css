@@ -197,7 +197,6 @@ a {
 }
 
 .shop-page .collection-page .items .collection-item {
-  border: 3px solid black;
   -webkit-box-flex: 1;
       -ms-flex: 1 1 1 1;
           flex: 1 1 1 1;
