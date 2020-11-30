@@ -1,0 +1,37 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.text{
+  margin: 10px auto;
+  padding: 10px;
+  border: 10px solid rgb(101, 184, 179);
+  width: 90%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+}
+
+.date {
+  color: rgb(0, 140, 255);
+  letter-spacing: 1.5px;
+  margin: 7px auto;
+  text-transform: uppercase;
+}
+
+h2 {
+  margin: 20px auto;
+  font-size: 25px;
+}
+
+.quote {
+  margin: 15px auto;
+  border-left: 7px solid rgb(187, 181, 181);
+  padding: 7px;
+}
+
+p {
+  margin: 15px auto;
+  padding: 7px;
+}
