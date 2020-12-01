@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.title {
+    text-align: center;
+    margin: 20px;
+    color: rgb(28, 104, 44);
+    padding: 30px;
+    border-bottom: 1px solid green;
+}
+
+p {
+    margin: 20px;
+    margin-left: 20%;
+    margin-right: 20%;
+    color: rgb(28, 104, 44);
+    padding: 15px;
+    font-size: 20px;
+}
+
+murmur {
+    color: rgb(134, 219, 152);
+    font-size: 15px;
+}
+
+.end {
+    text-align: right;
+}

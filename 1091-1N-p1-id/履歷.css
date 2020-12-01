@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100%;
+    margin: auto;
+    margin-top: 50px;
+    max-width: 1000px;
+    border: 1px solid seagreen;
+}
+
+.main_card, .summary{
+    margin: 30px;
+    border-bottom: 7px solid rgba(94, 185, 106, 0.4);
+}
+
+p {
+    margin: 35px;
+    font-size: 19px;
+}
+
+.main_card img {
+    float: right;
+    width: 175px;
+    vertical-align: middle;
+}
+
+i {
+    width: 40px;
+}
+
+.Portfolio {
+    margin: 30px;
+    border-bottom: 7px solid rgba(94, 185, 106, 0.4);
+}
+
+.Portfolio p {
+    margin: 35px;
+    font-size: 19px;
+}
+
+.language{
+    margin: 30px;
+    border-bottom: 7px solid rgba(94, 185, 106, 0.4);
+}
+
+.language lan{
+    margin-left: 10px;
+    font-size: 15px;
+}
+
+.education{
+    margin: 30px;
+}
+
+.education time{
+    margin-left: 20px;
+    font-size: 15px;
+}
+
+.education tkuim{
+    font-size: 15px;
+}

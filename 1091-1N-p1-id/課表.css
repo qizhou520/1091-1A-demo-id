@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100%;
+    margin: auto;
+    max-width: 1950px;
+  }
+
+.title {
+    margin: 20px;
+    color: rgb(28, 104, 44);
+    padding: 15px;
+    border-bottom: 1px solid green;
+}
+
+.classtime {
+    margin: 10px;
+    border: 2px solid green;
+}
+
+table{
+    width: 100%;
+    table-layout : fixed ; 
+    word-break : break-all ;
+}
+
+.week, .time{
+    text-align: center;
+}
+
+#week {
+    text-align: right;
+}
+
+#time {
+    text-align: left;
+}
+
+th {
+    border: 1px solid green;
+    padding: 5px;
+    height: 80px;
+}
